@@ -1,5 +1,5 @@
 projects:
-  - key: ld-pretty-herring
-  dir: src
-  aliases:
-    - type: camelcase
+  - key: ld-causal-swift
+    dir: src
+    aliases:
+      - type: camelcase
