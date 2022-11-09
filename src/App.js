@@ -51,7 +51,7 @@ function App() {
             </div>
           </div>
         </header>
-      )
+      )}
       {qrcode ? (
         <div className="body grid mx-auto row-start-4 xl:col-span-1 xl:col-start-4 xl:row-start-1 bg-black-4 place-content-center">
           <QRCode />
