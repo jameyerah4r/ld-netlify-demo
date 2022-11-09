@@ -1,0 +1,5 @@
+projects:
+  - key: ld-pretty-herring
+  dir: src
+  aliases:
+    - type: camelcase
